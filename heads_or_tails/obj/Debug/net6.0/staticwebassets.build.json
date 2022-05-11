@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xEGFBK7jkAgNEDysBrdMcgOA8+KRZuJHRhf3tC1Y0+0=",
+  "Source": "heads_or_tails",
+  "BasePath": "_content/heads_or_tails",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
